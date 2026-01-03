@@ -23,8 +23,6 @@ Sou desenvolvedor **Frontend**, focado em **React, TypeScript e Tailwind CSS**, 
 
 ---
 
----
-
 ## 📬 Contato
 
 <a href="mailto:rodolforequiao@gmail.com">
