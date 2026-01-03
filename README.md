@@ -20,7 +20,7 @@
   <img align="center" alt="TypeScript" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Tailwind CSS" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg">
 </div>
 
 <br>
@@ -28,5 +28,3 @@
 <a href="mailto:rodolforequiao@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-
