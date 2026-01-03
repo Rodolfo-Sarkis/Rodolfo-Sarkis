@@ -40,6 +40,10 @@ Sou desenvolvedor **Frontend**, focado em **React, TypeScript e Tailwind CSS**, 
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<a href="https://wa.me/5511993869941" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
 ---
 
 ## 🧠 Sobre mim
@@ -49,3 +53,4 @@ Sou desenvolvedor **Frontend**, focado em **React, TypeScript e Tailwind CSS**, 
 - 🎨 Estilização com Tailwind CSS  
 - 🎯 Buscando minha primeira oportunidade como dev frontend  
 - 🤝 Aberto a freelas e projetos colaborativos
+
