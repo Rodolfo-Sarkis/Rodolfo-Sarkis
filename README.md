@@ -16,7 +16,8 @@
   <!-- Tailwind CSS (use devicon hosted image so it loads on GitHub) -->
   <!-- Tailwind CSS (imagem local) -->
 <img alt="Tailwind CSS" height="30" width="40"
-     src="./tailwind-css-logo-png_seeklogo-354675.png">
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+
 
 
 </div>
