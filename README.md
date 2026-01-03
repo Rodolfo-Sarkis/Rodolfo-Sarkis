@@ -2,8 +2,10 @@
 
 <div>
   <a href="https://github.com/Rodolfo-Sarkis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodolfo-Sarkis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolfo-Sarkis&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180em"
+         src="https://github-readme-stats.vercel.app/api?username=Rodolfo-Sarkis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolfo-Sarkis&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
 
@@ -19,10 +21,11 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img height="30" width="40"
-     src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg"
-     style="filter: invert(1);">
 
+  <!-- Tailwind CSS (azul no tema escuro) -->
+  <img align="center" alt="Tailwind CSS" height="30" width="40"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg"
+       style="filter: invert(56%) sepia(93%) saturate(418%) hue-rotate(155deg) brightness(96%) contrast(92%);">
 </div>
 
 <br>
@@ -30,5 +33,6 @@
 <a href="mailto:rodolforequiao@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
 
 
