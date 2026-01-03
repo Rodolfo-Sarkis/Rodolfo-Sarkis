@@ -25,7 +25,7 @@
   <!-- Tailwind CSS azul claro -->
   <img alt="Tailwind CSS" height="30" width="40"
        src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg"
-       style="filter: invert(60%) sepia(98%) saturate(420%) hue-rotate(155deg) brightness(100%) contrast(95%);">
+       style="color: blue;">
 </div>
 
 <br>
