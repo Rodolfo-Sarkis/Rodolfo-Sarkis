@@ -18,7 +18,8 @@ Sou desenvolvedor **Frontend**, focado em **React, TypeScript e Tailwind CSS**, 
   <img alt="TypeScript" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="Tailwind CSS" height="30" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
+
 </div>
 
 ---
