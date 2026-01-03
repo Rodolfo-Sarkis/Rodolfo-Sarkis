@@ -13,9 +13,9 @@
   <img alt="TypeScript" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 
-  <!-- Tailwind CSS (imagem local) -->
+  <!-- Tailwind CSS (use devicon hosted image so it loads on GitHub) -->
   <img alt="Tailwind CSS" height="30" width="40"
-       src="./assets/tailwind.svg.png">
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 
 <br>
@@ -23,7 +23,6 @@
 <a href="mailto:rodolforequiao@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
 
 
 
