@@ -14,8 +14,10 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 
   <!-- Tailwind CSS (use devicon hosted image so it loads on GitHub) -->
-  <img alt="Tailwind CSS" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <!-- Tailwind CSS (imagem local) -->
+<img alt="Tailwind CSS" height="30" width="40"
+     src="./assets/tailwind.svg">
+
 </div>
 
 <br>
