@@ -15,7 +15,7 @@
 
   <!-- Tailwind CSS (imagem local) -->
   <img alt="Tailwind CSS" height="30" width="40"
-       src="./assets/tailwind.svg">
+       src="./assets/tailwind.svg.png">
 </div>
 
 <br>
