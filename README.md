@@ -19,8 +19,10 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Tailwind CSS" height="30" width="40"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg">
+  <img height="30" width="40"
+     src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg"
+     style="filter: invert(1);">
+
 </div>
 
 <br>
